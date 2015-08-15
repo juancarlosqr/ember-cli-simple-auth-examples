@@ -35,6 +35,20 @@ module.exports = function(environment) {
     // ENV.APP.LOG_TRANSITIONS = true;
     // ENV.APP.LOG_TRANSITIONS_INTERNAL = true;
     // ENV.APP.LOG_VIEW_LOOKUPS = true;
+
+    ENV['simple-auth'] = {
+      routeAfterAuthentication: 'protected'
+    };
+
+    ENV['torii'] = {
+      providers: {
+        'facebook-oauth2': {
+          apiKey: '904777482939227',
+          redirectUri: 'http://localhost:4200'
+        }
+      }
+    };
+
   }
 
   if (environment === 'test') {
