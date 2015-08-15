@@ -24,17 +24,18 @@ The authentication methods implemented here are:
 
 ## Other tutorials
 
-2015/08 - [create-your-first-ember-2-dot-0-app-from-authentication-to-calling-an-api](https://auth0.com/blog/2015/08/11/create-your-first-ember-2-dot-0-app-from-authentication-to-calling-an-api/)
-2015/07 - [auth0-ember-simple-auth](https://auth0.com/blog/2015/06/26/auth0-ember-simple-auth/)
-2015/03 - [twitter-authentication-ember-js-torii](http://www.sitepoint.com/twitter-authentication-ember-js-torii/)
-2015/03 - [ember-simple-auth-tutorial-and-common-problems](http://johnmosesman.com/ember-simple-auth-tutorial-and-common-problems/)
-2015/03 - [ember-simple-auth-torii-example](http://www.programwitherik.com/ember-simple-auth-torii-example-application/)
-2014/08 - [using-ember-simple-auth-with-ember-cli](http://log.simplabs.com/post/90339547725/using-ember-simple-auth-with-ember-cli)
-2014/07 - [Using Ember Simple Auth with ember-cli](https://www.youtube.com/watch?v=EkedSQH6yBo)
-2014/06 - [authentication-for-single-page-apps](http://madhatted.com/2014/6/17/authentication-for-single-page-apps)
+- 2015/08 - [create-your-first-ember-2-dot-0-app-from-authentication-to-calling-an-api](https://auth0.com/blog/2015/08/11/create-your-first-ember-2-dot-0-app-from-authentication-to-calling-an-api/)
+- 2015/07 - [auth0-ember-simple-auth](https://auth0.com/blog/2015/06/26/auth0-ember-simple-auth/)
+- 2015/03 - [twitter-authentication-ember-js-torii](http://www.sitepoint.com/twitter-authentication-ember-js-torii/)
+- 2015/03 - [ember-simple-auth-tutorial-and-common-problems](http://johnmosesman.com/ember-simple-auth-tutorial-and-common-problems/)
+- 2015/03 - [ember-simple-auth-torii-example](http://www.programwitherik.com/ember-simple-auth-torii-example-application/)
+- 2014/08 - [using-ember-simple-auth-with-ember-cli](http://log.simplabs.com/post/90339547725/using-ember-simple-auth-with-ember-cli)
+- 2014/07 - [Using Ember Simple Auth with ember-cli](https://www.youtube.com/watch?v=EkedSQH6yBo)
+- 2014/06 - [authentication-for-single-page-apps](http://madhatted.com/2014/6/17/authentication-for-single-page-apps)
 
 __Not using simple-auth__
-2015/02 - [ember-vs-angular-authentication](http://brewhouse.io/blog/2015/02/12/ember-vs-angular-authentication.html)
+
+- 2015/02 - [ember-vs-angular-authentication](http://brewhouse.io/blog/2015/02/12/ember-vs-angular-authentication.html)
 
 ## Prerequisites
 
