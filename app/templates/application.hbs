@@ -15,7 +15,13 @@
               <li>{{link-to 'Home' 'index'}}</li>
               <li>{{link-to 'Public' 'public'}}</li>
               <li>{{link-to 'Protected' 'protected'}}</li>
-              <li>{{link-to 'Login' 'login'}}</li>
+              <li>
+                {{#if session.isAuthenticated}}
+                    {{link-to 'Logout' 'logout'}}
+                {{else}}
+                    {{link-to 'Login' 'login'}}
+                {{/if}}
+              </li>
             </ul>
           </div><!--/.nav-collapse -->
         </div>
